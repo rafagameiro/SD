@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar" sourcepath="M2_REPO/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar" sourcepath="M2_REPO/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" sourcepath="M2_REPO/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/sd2019/sd19-tp1-api/1.0/sd19-tp1-api-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/core/jersey-client/2.25.1/jersey-client-2.25.1.jar" sourcepath="M2_REPO/org/glassfish/jersey/core/jersey-client/2.25.1/jersey-client-2.25.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/core/jersey-common/2.25.1/jersey-common-2.25.1.jar" sourcepath="M2_REPO/org/glassfish/jersey/core/jersey-common/2.25.1/jersey-common-2.25.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.25.1/jersey-guava-2.25.1.jar" sourcepath="M2_REPO/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.25.1/jersey-guava-2.25.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/hk2-api/2.5.0-b32/hk2-api-2.5.0-b32.jar" sourcepath="M2_REPO/org/glassfish/hk2/hk2-api/2.5.0-b32/hk2-api-2.5.0-b32-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/hk2-utils/2.5.0-b32/hk2-utils-2.5.0-b32.jar" sourcepath="M2_REPO/org/glassfish/hk2/hk2-utils/2.5.0-b32/hk2-utils-2.5.0-b32-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b32/aopalliance-repackaged-2.5.0-b32.jar" sourcepath="M2_REPO/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b32/aopalliance-repackaged-2.5.0-b32-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/external/javax.inject/2.5.0-b32/javax.inject-2.5.0-b32.jar" sourcepath="M2_REPO/org/glassfish/hk2/external/javax.inject/2.5.0-b32/javax.inject-2.5.0-b32-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/hk2-locator/2.5.0-b32/hk2-locator-2.5.0-b32.jar" sourcepath="M2_REPO/org/glassfish/hk2/hk2-locator/2.5.0-b32/hk2-locator-2.5.0-b32-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" sourcepath="M2_REPO/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar" sourcepath="M2_REPO/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/core/jersey-server/2.25.1/jersey-server-2.25.1.jar" sourcepath="M2_REPO/org/glassfish/jersey/core/jersey-server/2.25.1/jersey-server-2.25.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/media/jersey-media-jaxb/2.25.1/jersey-media-jaxb-2.25.1.jar" sourcepath="M2_REPO/org/glassfish/jersey/media/jersey-media-jaxb/2.25.1/jersey-media-jaxb-2.25.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/containers/jersey-container-jdk-http/2.25.1/jersey-container-jdk-http-2.25.1.jar" sourcepath="M2_REPO/org/glassfish/jersey/containers/jersey-container-jdk-http/2.25.1/jersey-container-jdk-http-2.25.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/media/jersey-media-json-jackson/2.25.1/jersey-media-json-jackson-2.25.1.jar" sourcepath="M2_REPO/org/glassfish/jersey/media/jersey-media-json-jackson/2.25.1/jersey-media-json-jackson-2.25.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/jersey/ext/jersey-entity-filtering/2.25.1/jersey-entity-filtering-2.25.1.jar" sourcepath="M2_REPO/org/glassfish/jersey/ext/jersey-entity-filtering/2.25.1/jersey-entity-filtering-2.25.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.8.4/jackson-jaxrs-base-2.8.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.8.4/jackson-jaxrs-base-2.8.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.8.4/jackson-core-2.8.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.8.4/jackson-core-2.8.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.8.4/jackson-annotations-2.8.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.8.4/jackson-annotations-2.8.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.8.4/jackson-jaxrs-json-provider-2.8.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.8.4/jackson-jaxrs-json-provider-2.8.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.4/jackson-module-jaxb-annotations-2.8.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.4/jackson-module-jaxb-annotations-2.8.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/chrylis/base58-codec/1.2.0/base58-codec-1.2.0.jar" sourcepath="M2_REPO/com/chrylis/base58-codec/1.2.0/base58-codec-1.2.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.2/commons-lang3-3.2.jar" sourcepath="M2_REPO/org/apache/commons/commons-lang3/3.2/commons-lang3-3.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/github/scribejava/scribejava-apis/6.5.1/scribejava-apis-6.5.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/github/scribejava/scribejava-core/6.5.1/scribejava-core-6.5.1.jar" sourcepath="M2_REPO/com/github/scribejava/scribejava-core/6.5.1/scribejava-core-6.5.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/pac4j/pac4j-oauth/3.6.1/pac4j-oauth-3.6.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/pac4j/pac4j-core/3.6.1/pac4j-core-3.6.1.jar" sourcepath="M2_REPO/org/pac4j/pac4j-core/3.6.1/pac4j-core-3.6.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.11/commons-codec-1.11.jar" sourcepath="M2_REPO/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar"/>
+</classpath>
